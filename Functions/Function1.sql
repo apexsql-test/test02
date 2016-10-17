@@ -1,2 +1,2 @@
 CREATE FUNCTION Function1
-Version 7
+Version 8
